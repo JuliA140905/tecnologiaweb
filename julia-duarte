@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Meu Portfólio_Julia</title>
+        <link rel="stylesheet" href="css/style.css">
+    </head>
+
+    <body>
+
+         <!-- ===============CABEÇLAHO================ -->
+         <header>
+            <!--MENU DE NAVEGAÇÃO SERÁ PREENCHIDO NA AULA 2-->
+         </header>
+         
+         <!---------------------CONTEUDO PRINCIPAL--------------->
+         <main>
+
+            <!--SEÇÃO: Sobre mim-->
+            <section id="sobre">
+                <!-- Conteudo será preenchido na aula 2 -->
+            </section>
+
+            <!--SEÇÃO: Projetos-->
+            <section id="projetos">
+                <!-- Cards de projetos serão adicionados na aula 2-->
+            </section>
+
+            <!-- SEÇÃO: Formação e Experiencia-->
+             <section id="formação">
+                <!--Conteudo de formação será preenchido na aula 2-->
+             </section>
+
+             <!--SEÇÃO: Contato-->
+             <section id="contato">
+                <!--Formulario será preenchido na aula 2-->
+             </section>
+
+         </main>
+
+         <!--==============RODAPÉ===============-->
+         <footer>
+            <!--Rodapé será preencido na aula 2-->
+         </footer>
+
+    </body>
+</html>
